@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhavansingchawan
-- 👀 Check my web app here => Crickin
+- 👀 Check my web app here => crickin.vercel.app
 - 🌱 I’m currently learning ruby on rails web development. 
 - 📫 How to reach me => bhavansingchawan@gmail.com 
 
